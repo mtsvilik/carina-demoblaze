@@ -1,0 +1,7 @@
+[2023-12-08 06:53:32] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-12-08 06:53:32] [1] [INFO] TEST [carina-demoblaze - authTest] STARTED at [09:53:32 2023-12-08]
+[2023-12-08 06:53:32] [1] [INFO] Starting driver session...
+[2023-12-08 06:53:34] [1] [INFO] Driver session started.
+[2023-12-08 06:53:34] [1] [INFO] INFO: opening url 'https://www.demoblaze.com/'
+[2023-12-08 06:53:35] [1] [INFO] INFO: url 'https://www.demoblaze.com/' is opened.
+[2023-12-08 06:53:36] [1] [INFO] TEST [carina-demoblaze - authTest] PASSED at [09:53:36 2023-12-08]
